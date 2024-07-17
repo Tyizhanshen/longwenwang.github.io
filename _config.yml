@@ -21,7 +21,7 @@ repository               : "Tyizhanshen/longwenwang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profileme.png"
   name             : "Longwen Wang(王隆文)"
   pronouns         : # example: "she/her"  
   bio              : "A learner"
