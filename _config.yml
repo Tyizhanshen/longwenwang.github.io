@@ -12,7 +12,7 @@ title                    : "Longwen Wang / Homepage"
 title_separator          : "-"
 name                     : &name "Longwen Wang"
 description              : &description "A learner"
-url                      : https://longwenwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tyizhanshen.github.io/longwenwang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tyizhanshen/longwenwang.github.io"
 
